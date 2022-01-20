@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mika-8P
+- 👋 Hi, I’m Mickael
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on ...
